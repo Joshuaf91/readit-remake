@@ -29,3 +29,4 @@ Today we'll be using the `sequelize cli` to make a Reddit clone. However we won'
 * Make a Comment form for a Post
 * Upvote button / Downvote button for each Post
 
+
